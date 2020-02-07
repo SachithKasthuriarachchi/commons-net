@@ -28,7 +28,7 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import org.apache.commons.net.imap.IMAPClient;
+import org.apache.android.commons.net.imap.IMAPClient;
 
 /**
  * This is an example program demonstrating how to use the IMAP[S]Client class.

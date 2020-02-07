@@ -21,10 +21,10 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.net.InetAddress;
 
-import org.apache.commons.net.PrintCommandListener;
-import org.apache.commons.net.ProtocolCommandListener;
-import org.apache.commons.net.ftp.FTPClient;
-import org.apache.commons.net.ftp.FTPReply;
+import org.apache.android.commons.net.PrintCommandListener;
+import org.apache.android.commons.net.ProtocolCommandListener;
+import org.apache.android.commons.net.ftp.FTPClient;
+import org.apache.android.commons.net.ftp.FTPReply;
 
 /***
  * This is an example program demonstrating how to use the FTPClient class.

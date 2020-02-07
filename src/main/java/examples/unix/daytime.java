@@ -20,8 +20,8 @@ package examples.unix;
 import java.io.IOException;
 import java.net.InetAddress;
 
-import org.apache.commons.net.daytime.DaytimeTCPClient;
-import org.apache.commons.net.daytime.DaytimeUDPClient;
+import org.apache.android.commons.net.daytime.DaytimeTCPClient;
+import org.apache.android.commons.net.daytime.DaytimeUDPClient;
 
 /***
  * This is an example program demonstrating how to use the DaytimeTCP

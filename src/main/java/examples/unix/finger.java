@@ -21,7 +21,7 @@ import java.io.IOException;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
 
-import org.apache.commons.net.finger.FingerClient;
+import org.apache.android.commons.net.finger.FingerClient;
 
 /***
  * This is an example of how you would implement the finger command

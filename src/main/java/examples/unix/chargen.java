@@ -24,8 +24,8 @@ import java.io.InterruptedIOException;
 import java.net.InetAddress;
 import java.net.SocketException;
 
-import org.apache.commons.net.chargen.CharGenTCPClient;
-import org.apache.commons.net.chargen.CharGenUDPClient;
+import org.apache.android.commons.net.chargen.CharGenTCPClient;
+import org.apache.android.commons.net.chargen.CharGenUDPClient;
 
 /***
  * This is an example program demonstrating how to use the CharGenTCPClient

@@ -18,7 +18,7 @@
 package examples.telnet;
 
 import java.io.IOException;
-import org.apache.commons.net.telnet.TelnetClient;
+import org.apache.android.commons.net.telnet.TelnetClient;
 
 import examples.util.IOUtil;
 

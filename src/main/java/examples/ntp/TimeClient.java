@@ -21,8 +21,8 @@ package examples.ntp;
 import java.io.IOException;
 import java.net.InetAddress;
 
-import org.apache.commons.net.time.TimeTCPClient;
-import org.apache.commons.net.time.TimeUDPClient;
+import org.apache.android.commons.net.time.TimeTCPClient;
+import org.apache.android.commons.net.time.TimeUDPClient;
 
 /***
  * This is an example program demonstrating how to use the TimeTCPClient

@@ -27,11 +27,11 @@ import java.io.Writer;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.apache.commons.net.PrintCommandListener;
-import org.apache.commons.net.io.Util;
-import org.apache.commons.net.smtp.SMTPClient;
-import org.apache.commons.net.smtp.SMTPReply;
-import org.apache.commons.net.smtp.SimpleSMTPHeader;
+import org.apache.android.commons.net.PrintCommandListener;
+import org.apache.android.commons.net.io.Util;
+import org.apache.android.commons.net.smtp.SMTPClient;
+import org.apache.android.commons.net.smtp.SMTPReply;
+import org.apache.android.commons.net.smtp.SimpleSMTPHeader;
 
 /***
  * This is an example program using the SMTP package to send a message

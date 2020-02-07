@@ -18,8 +18,8 @@
 package examples.nntp;
 
 import java.io.IOException;
-import org.apache.commons.net.nntp.NNTPClient;
-import org.apache.commons.net.nntp.NewsgroupInfo;
+import org.apache.android.commons.net.nntp.NNTPClient;
+import org.apache.android.commons.net.nntp.NewsgroupInfo;
 
 /***
  * This is a trivial example using the NNTP package to approximate the

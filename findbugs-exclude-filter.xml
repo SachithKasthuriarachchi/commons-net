@@ -25,14 +25,14 @@
 
   <!-- Unchecked cast is deliberate -->
   <Match>
-    <Class name="org.apache.commons.net.ftp.FTPSServerSocketFactory" />
+    <Class name="org.apache.android.commons.net.ftp.FTPSServerSocketFactory" />
     <Method name="init" />
     <Bug code="BC" />
   </Match>
 
   <!-- Unchecked cast is deliberate -->
   <Match>
-    <Class name="org.apache.commons.net.ftp.FTPSSocketFactory" />
+    <Class name="org.apache.android.commons.net.ftp.FTPSSocketFactory" />
     <Method name="init" />
     <Bug code="BC" />
   </Match>
@@ -44,34 +44,34 @@
 
   <!-- future FTPClientConfig instances may not implement configurable -->
   <Match>
-    <Class name="org.apache.commons.net.ftp.parser.ConfigurableFTPFileEntryParserImpl" />
+    <Class name="org.apache.android.commons.net.ftp.parser.ConfigurableFTPFileEntryParserImpl" />
     <Method name="configure" />
     <Bug code="BC" />
   </Match>
 
   <!-- False positive - missing default -->
   <Match>
-    <Class name="org.apache.commons.net.io.DotTerminatedMessageWriter" />
+    <Class name="org.apache.android.commons.net.io.DotTerminatedMessageWriter" />
     <Method name="write" />
     <Bug code="SF" />
   </Match>
 
   <!-- False positive - missing default -->
   <Match>
-    <Class name="org.apache.commons.net.io.ToNetASCIIOutputStream" />
+    <Class name="org.apache.android.commons.net.io.ToNetASCIIOutputStream" />
     <Method name="write" />
     <Bug code="SF" />
   </Match>
 
   <!-- Deprecated code -->
   <Match>
-    <Class name="org.apache.commons.net.nntp.ArticlePointer" />
+    <Class name="org.apache.android.commons.net.nntp.ArticlePointer" />
     <Bug code="UrF" />
   </Match>
 
   <!-- Used externally -->
   <Match>
-    <Class name="org.apache.commons.net.pop3.POP3MessageInfo" />
+    <Class name="org.apache.android.commons.net.pop3.POP3MessageInfo" />
     <Or>
       <Field name="size"/>
       <Field name="identifier"/>

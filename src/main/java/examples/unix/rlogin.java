@@ -18,7 +18,7 @@
 package examples.unix;
 
 import java.io.IOException;
-import org.apache.commons.net.bsd.RLoginClient;
+import org.apache.android.commons.net.bsd.RLoginClient;
 
 import examples.util.IOUtil;
 

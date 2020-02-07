@@ -23,13 +23,13 @@ import java.io.OutputStream;
 import java.io.FileOutputStream;
 import java.util.StringTokenizer;
 
-import org.apache.commons.net.telnet.TelnetClient;
-import org.apache.commons.net.telnet.TelnetNotificationHandler;
-import org.apache.commons.net.telnet.SimpleOptionHandler;
-import org.apache.commons.net.telnet.EchoOptionHandler;
-import org.apache.commons.net.telnet.TerminalTypeOptionHandler;
-import org.apache.commons.net.telnet.SuppressGAOptionHandler;
-import org.apache.commons.net.telnet.InvalidTelnetOptionException;
+import org.apache.android.commons.net.telnet.TelnetClient;
+import org.apache.android.commons.net.telnet.TelnetNotificationHandler;
+import org.apache.android.commons.net.telnet.SimpleOptionHandler;
+import org.apache.android.commons.net.telnet.EchoOptionHandler;
+import org.apache.android.commons.net.telnet.TerminalTypeOptionHandler;
+import org.apache.android.commons.net.telnet.SuppressGAOptionHandler;
+import org.apache.android.commons.net.telnet.InvalidTelnetOptionException;
 
 
 /***

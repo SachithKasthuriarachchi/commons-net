@@ -20,8 +20,8 @@ package examples.mail;
 import java.io.IOException;
 import java.net.URI;
 
-import org.apache.commons.net.PrintCommandListener;
-import org.apache.commons.net.imap.IMAPClient;
+import org.apache.android.commons.net.PrintCommandListener;
+import org.apache.android.commons.net.imap.IMAPClient;
 
 /**
  * This is an example program demonstrating how to use the IMAP[S]Client class.

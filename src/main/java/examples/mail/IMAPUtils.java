@@ -20,9 +20,9 @@ package examples.mail;
 import java.io.IOException;
 import java.net.URI;
 
-import org.apache.commons.net.ProtocolCommandListener;
-import org.apache.commons.net.imap.IMAPClient;
-import org.apache.commons.net.imap.IMAPSClient;
+import org.apache.android.commons.net.ProtocolCommandListener;
+import org.apache.android.commons.net.imap.IMAPClient;
+import org.apache.android.commons.net.imap.IMAPSClient;
 
 /**
  * Utility class for shared IMAP utilities

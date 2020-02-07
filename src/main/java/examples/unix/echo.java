@@ -26,8 +26,8 @@ import java.io.PrintWriter;
 import java.net.InetAddress;
 import java.net.SocketException;
 
-import org.apache.commons.net.echo.EchoTCPClient;
-import org.apache.commons.net.echo.EchoUDPClient;
+import org.apache.android.commons.net.echo.EchoTCPClient;
+import org.apache.android.commons.net.echo.EchoUDPClient;
 
 /***
  * This is an example program demonstrating how to use the EchoTCPClient

@@ -18,7 +18,7 @@
 package examples.unix;
 
 import java.io.IOException;
-import org.apache.commons.net.bsd.RExecClient;
+import org.apache.android.commons.net.bsd.RExecClient;
 
 import examples.util.IOUtil;
 

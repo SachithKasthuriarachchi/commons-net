@@ -20,7 +20,7 @@ package examples.util;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
-import org.apache.commons.net.io.Util;
+import org.apache.android.commons.net.io.Util;
 
 /***
  * This is a utility class providing a reader/writer capability required

@@ -16,10 +16,10 @@
  */
 package examples.ntp;
 
-import org.apache.commons.net.ntp.NtpUtils;
-import org.apache.commons.net.ntp.NtpV3Impl;
-import org.apache.commons.net.ntp.NtpV3Packet;
-import org.apache.commons.net.ntp.TimeStamp;
+import org.apache.android.commons.net.ntp.NtpUtils;
+import org.apache.android.commons.net.ntp.NtpV3Impl;
+import org.apache.android.commons.net.ntp.NtpV3Packet;
+import org.apache.android.commons.net.ntp.TimeStamp;
 
 import java.io.IOException;
 import java.net.DatagramPacket;

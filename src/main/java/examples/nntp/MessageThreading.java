@@ -21,11 +21,11 @@ package examples.nntp;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.net.SocketException;
-import org.apache.commons.net.PrintCommandListener;
-import org.apache.commons.net.nntp.Article;
-import org.apache.commons.net.nntp.NNTPClient;
-import org.apache.commons.net.nntp.NewsgroupInfo;
-import org.apache.commons.net.nntp.Threader;
+import org.apache.android.commons.net.PrintCommandListener;
+import org.apache.android.commons.net.nntp.Article;
+import org.apache.android.commons.net.nntp.NNTPClient;
+import org.apache.android.commons.net.nntp.NewsgroupInfo;
+import org.apache.android.commons.net.nntp.Threader;
 
 /**
  * Sample program demonstrating the use of article iteration and threading.

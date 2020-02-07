@@ -22,10 +22,10 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Locale;
 
-import org.apache.commons.net.PrintCommandListener;
-import org.apache.commons.net.pop3.POP3Client;
-import org.apache.commons.net.pop3.POP3MessageInfo;
-import org.apache.commons.net.pop3.POP3SClient;
+import org.apache.android.commons.net.PrintCommandListener;
+import org.apache.android.commons.net.pop3.POP3Client;
+import org.apache.android.commons.net.pop3.POP3MessageInfo;
+import org.apache.android.commons.net.pop3.POP3SClient;
 
 /**
  * This is an example program demonstrating how to use the POP3[S]Client class.

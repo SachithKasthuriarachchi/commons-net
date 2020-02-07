@@ -33,12 +33,12 @@ import java.util.TimeZone;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import org.apache.commons.net.PrintCommandListener;
-import org.apache.commons.net.ProtocolCommandEvent;
-import org.apache.commons.net.imap.IMAP.IMAPChunkListener;
-import org.apache.commons.net.imap.IMAP;
-import org.apache.commons.net.imap.IMAPClient;
-import org.apache.commons.net.imap.IMAPReply;
+import org.apache.android.commons.net.PrintCommandListener;
+import org.apache.android.commons.net.ProtocolCommandEvent;
+import org.apache.android.commons.net.imap.IMAP.IMAPChunkListener;
+import org.apache.android.commons.net.imap.IMAP;
+import org.apache.android.commons.net.imap.IMAPClient;
+import org.apache.android.commons.net.imap.IMAPReply;
 
 /**
  * This is an example program demonstrating how to use the IMAP[S]Client class.

@@ -19,8 +19,8 @@ package examples.nntp;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-import org.apache.commons.net.nntp.Article;
-import org.apache.commons.net.nntp.NNTPClient;
+import org.apache.android.commons.net.nntp.Article;
+import org.apache.android.commons.net.nntp.NNTPClient;
 
 /**
  * Some convenience methods for NNTP example classes.

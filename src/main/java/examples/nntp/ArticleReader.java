@@ -22,9 +22,9 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.net.SocketException;
 
-import org.apache.commons.net.PrintCommandListener;
-import org.apache.commons.net.nntp.NNTPClient;
-import org.apache.commons.net.nntp.NewsgroupInfo;
+import org.apache.android.commons.net.PrintCommandListener;
+import org.apache.android.commons.net.nntp.NNTPClient;
+import org.apache.android.commons.net.nntp.NewsgroupInfo;
 
 /**
  * Sample program demonstrating the use of article header and body retrieval

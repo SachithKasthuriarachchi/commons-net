@@ -280,7 +280,7 @@ This is mainly a bug-fix release. See further details below.
             Unnecesssary call to getReplyString() if no listeners configured
             </action>
             <action issue="NET-530" type="fix" dev="sebb" due-to="fish ship">
-            input parameter of org.apache.commons.net.ftp.FTP.__getReply(boolean) is not used
+                input parameter of org.apache.android.commons.net.ftp.FTP.__getReply(boolean) is not used
             </action>
             <action issue="NET-529" type="fix" dev="sebb" due-to="Putinas Piliponis">
             SubnetUtils throws exception on valid input
@@ -961,7 +961,8 @@ This is primarily a maintenance release, but it also includes new features and e
 
         <release version="2.0" date="October 20, 2008" description="Java 5.0 release">
             <action dev="rwinston" type="fix" issue="NET-307">
-                One of the "connect" method in class org.apache.commons.net.SocketClient doesn't handle connection timeout properly
+                One of the "connect" method in class org.apache.android.commons.net.SocketClient doesn't handle
+                connection timeout properly
             </action>
             <action dev="rwinston" type="update">
                 Add null check in TelnetClient::disconnect().
